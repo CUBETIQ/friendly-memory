@@ -1,2 +1,2 @@
-# friendly-memory
+# friendly-memory [ Just Echo... ]
 Just Suggested from GitHub! Share all ideas here...
